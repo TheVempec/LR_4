@@ -1,0 +1,8 @@
+*.a
+!lib.a
+subdir/TODO
+/TODO
+build/
+*.[oa]
+*~
+*.txt
