@@ -7,3 +7,5 @@ build/
 *~
 *.txt
 *.pdf
+*.[x]
+*.[d]
